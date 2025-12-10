@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "\"I am standing\" on the edge of some crazy cliff.\nWhat I have to do, I have to catch everybody\nif they start to go over the cliff I mean\nif they are running and they do not look\nwhere they are going I have to come out\nfrom somewhere and catch them.";
+return 0;
+}
