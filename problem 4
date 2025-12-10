@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 189;
+    char b = 'B';
+    float r1 = a / 3.0f;
+    int r2 = b;
+    float r3 = (a + b) / 5.0f;
+    char r4 = b + (a / 10 - 1);
+    cout << r1 << " " << r2 << " " << r3 << " " << r4;
+    return 0;
+}
