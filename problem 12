@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n;
+    cin >> n;
+    int first = n / 11;
+    int last = n % 11;
+    cout << "In first group: " << first << endl;
+    cout << "In last group: " << last;
+    return 0;
+}
