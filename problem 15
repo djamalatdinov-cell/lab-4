@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    char c = 'A';
+    cout << char(c + 7) << char(c + 4) << char(c + 11) << char(c + 11) << char(c + 14) << "!";
+    return 0;
+}
